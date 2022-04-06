@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-l",
+  "version": "1.0.0",
+  "description": "tailwind details learning",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
