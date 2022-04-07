@@ -2,7 +2,7 @@
 
 1.  npm init -y// This initializes the directory as a NodeJs project
 2.  npm install -D tailwindcss postcss autoprefixer vite // installs required packages
-3.  npx tailwindcss init -P
+3.  npx tailwindcss init -p
 4.  Create a css file "input.css", add it to your html and edit it with this content:
     @tailwind base;
     @tailwind components;
